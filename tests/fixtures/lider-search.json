@@ -1,0 +1,50 @@
+{
+ "props": {
+  "pageProps": {
+   "initialData": {
+    "searchResult": {
+     "itemStacks": [
+      {
+       "items": [
+        {
+         "usItemId": "00780292077754",
+         "name": "Leche Entera Natural Caja 1 l, 1 L",
+         "brand": "Colun",
+         "sellerType": "INTERNAL",
+         "canonicalUrl": "/ip/leche/00780292077754",
+         "isOutOfStock": false,
+         "priceInfo": {
+          "itemPrice": "",
+          "linePrice": "$1.190",
+          "wasPrice": "$1.290",
+          "unitPrice": "$1.190 x lt"
+         }
+        },
+        {
+         "usItemId": "00780292001064",
+         "name": "Leche Colun Beta-caseína A2 Entera Sin Lactosa, 1 L",
+         "brand": "Colun",
+         "sellerType": "INTERNAL",
+         "canonicalUrl": "/ip/leche/00780292001064",
+         "isOutOfStock": true,
+         "priceInfo": {
+          "linePrice": "$2.950"
+         }
+        },
+        {
+         "usItemId": "01780463883018",
+         "name": "Leche Entera en Polvo 3X 800 Gr",
+         "brand": "Alcafood",
+         "sellerType": "EXTERNAL",
+         "priceInfo": {
+          "linePrice": "$17.970"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

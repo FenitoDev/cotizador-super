@@ -1,0 +1,25 @@
+{
+ "props": {
+  "pageProps": {
+   "initialData": {
+    "data": {
+     "product": {
+      "usItemId": "00780292077754",
+      "name": "Leche Entera Natural Caja 1 l, 1 L",
+      "brand": "Colun",
+      "availabilityStatus": "IN_STOCK",
+      "priceInfo": {
+       "currentPrice": {
+        "price": 1190,
+        "priceString": "$1.190"
+       },
+       "wasPrice": {
+        "price": 1290
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

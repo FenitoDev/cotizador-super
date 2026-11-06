@@ -1,0 +1,98 @@
+{
+ "data": {
+  "cart": {
+   "id": "CART",
+   "lineItems": [
+    {
+     "id": "L1",
+     "quantity": 1,
+     "product": {
+      "usItemId": "00780292077754",
+      "name": "Leche Entera Natural Caja 1 L",
+      "brand": "Colun",
+      "offerId": "OFFER"
+     },
+     "priceInfo": {
+      "itemPrice": {
+       "displayValue": "$1.190 un",
+       "value": 1190
+      },
+      "linePrice": {
+       "displayValue": "$1.190",
+       "value": 1190
+      },
+      "wasPrice": {
+       "displayValue": "$1.290",
+       "value": 1290
+      }
+     }
+    },
+    {
+     "id": "L2",
+     "quantity": 2,
+     "product": {
+      "usItemId": "00780122000461",
+      "name": "Camote en Trozos 400 g",
+      "brand": "Minuto Verde"
+     },
+     "priceInfo": {
+      "itemPrice": {
+       "value": 2690
+      },
+      "linePrice": {
+       "value": 4000
+      }
+     }
+    },
+    {
+     "id": "L3",
+     "quantity": 1,
+     "product": {
+      "usItemId": "00780294073070",
+      "name": "Vino Cabernet Sauvignon Botella 750 mL",
+      "brand": "Toro De Piedra",
+      "sellerType": "EXTERNAL"
+     },
+     "priceInfo": {
+      "itemPrice": {
+       "value": 8990
+      },
+      "linePrice": {
+       "value": 8990
+      }
+     }
+    }
+   ],
+   "priceDetails": {
+    "subTotal": {
+     "value": 1190,
+     "displayValue": "$1.190"
+    },
+    "grandTotal": {
+     "value": 1190
+    },
+    "fees": [
+     {
+      "label": "Despacho a domicilio",
+      "value": {
+       "value": 990,
+       "displayValue": "$990"
+      }
+     },
+     {
+      "label": "Costo de envío del vendedor",
+      "value": {
+       "value": 2990
+      }
+     }
+    ],
+    "minimumThreshold": {
+     "value": 0,
+     "displayValue": "$0"
+    },
+    "belowMinimumFee": null
+   },
+   "checkoutable": true
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "resource": "30",
+ "redirect": "",
+ "operator": "and",
+ "misspelled": false,
+ "availableProducts": [
+  {
+   "price": {
+    "price": "$1.090",
+    "listPrice": "$1.350",
+    "availableQuantity": 10000,
+    "inOffer": true,
+    "ppum": "$1.090 x litro"
+   },
+   "item": {
+    "itemId": "2896",
+    "sku": "2896",
+    "ean": "7802920777542",
+    "name": "Leche entera natural Colun sin tapa 1 L",
+    "brand": "Colun",
+    "netContent": "1 litro",
+    "images": [
+     "https://unimarc.vtexassets.com/arquivos/ids/200220/000000000000007390-UN-01.jpg"
+    ],
+    "slug": "/leche-entera-natural-colun-sin-tapa-1-l-2/p"
+   }
+  }
+ ],
+ "notAvailableProducts": [
+  {
+   "price": {
+    "price": "$2.990",
+    "availableQuantity": 0
+   },
+   "item": {
+    "sku": "9999",
+    "ean": "7802920001111",
+    "name": "Leche Colun Chocolate 1 L",
+    "brand": "Colun",
+    "slug": "/leche-colun-chocolate-1-l/p"
+   }
+  }
+ ]
+}
